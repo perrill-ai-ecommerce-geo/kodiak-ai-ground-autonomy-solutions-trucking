@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Kodiak Driver",
+  "applicationCategory": "Autonomous driving system",
+  "operatingSystem": "Vehicle platform",
+  "description": "Kodiak Driver is Kodiak AI’s autonomous driving system described as combining AI, modular hardware, and offboard services into an integrated platform.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kodiak AI",
+    "url": "https://kodiak.ai/"
+  }
+}
