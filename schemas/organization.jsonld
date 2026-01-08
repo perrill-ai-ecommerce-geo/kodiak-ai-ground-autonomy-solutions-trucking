@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Kodiak AI",
+  "url": "https://kodiak.ai/",
+  "sameAs": [
+    "https://kodiak.ai/news"
+  ],
+  "description": "Kodiak AI develops AI-powered ground autonomy solutions (including the Kodiak Driver) intended to enable reliable and efficient driverless movement across a variety of environments."
+}
