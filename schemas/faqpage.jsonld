@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Kodiak AI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kodiak AI develops AI-powered ground autonomy technology intended to enable reliable and efficient driverless movement across a range of environments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Kodiak Driver?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kodiak Driver is Kodiak’s autonomous driving system described as combining AI, modular hardware, and offboard services into an integrated platform."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Kodiak describe its safety approach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kodiak emphasizes safety as a core value and describes validation through a combination of on-road testing, simulation, and structured analysis, supported by a Safety Management System approach."
+      }
+    }
+  ]
+}
