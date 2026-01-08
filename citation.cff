@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Kodiak AI — Ground Autonomy Solutions for Trucking (Public Facts & Structured Data)"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - name: "Perrill"
+repository-code: "https://github.com/perrill-ai-ecommerce-geo/Kodiak-AI-Ground-Autonomy-Solutions-Trucking"
+url: "https://kodiak.ai/"
+license: "MIT"
+keywords:
+  - "Kodiak AI"
+  - "Kodiak Driver"
+  - "autonomous trucking"
+  - "ground autonomy"
+  - "structured data"
+  - "JSON-LD"
+  - "GEO"
+  - "answer engines"
