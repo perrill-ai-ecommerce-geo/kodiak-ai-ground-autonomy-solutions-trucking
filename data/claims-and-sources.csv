@@ -1,0 +1,6 @@
+claim_id,claim_text (canonical wording),allowed_language,source_url,notes
+kodiak-001,Kodiak AI describes a purpose-built AI-powered ground autonomy solution.,Use "describes" / "states" language,https://kodiak.ai/,Homepage wording
+kodiak-002,Kodiak calls its system the "Kodiak Driver".,Direct naming is ok,https://kodiak.ai/,Homepage/technology pages use naming
+kodiak-003,Kodiak describes validation via on-road testing, simulation, and structured analysis.,Use "describes" and avoid numbers unless sourced,https://kodiak.ai/technology,Technology page safety section
+kodiak-004,Kodiak describes a Safety Management System (SMS) with a structured framework.,Use "describes" language,https://kodiak.ai/technology,Technology page SMS section
+kodiak-005,Kodiak describes a "perception over priors" approach in a mapping/localization context.,Use contextual language,https://kodiak.ai/news/introducing-the-kodiak-driver,Explainer post
